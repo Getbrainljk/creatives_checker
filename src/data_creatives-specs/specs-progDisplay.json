@@ -1,139 +1,140 @@
+
 [
     {
-        "extentionsAutorises": "Formats Standard IAB"
+        "formatName": "Formats Standard IAB"
     },
     {
-        "extentionsAutorises": "Formats IAB Standard",
-        "taillesRecommandes": ".JPG\n.JPEG\n.GIF\nCode HTML",
-        "poidsMaximum": "728x90\n160x600\n300x250\n300x600\n970x90\n970x250",
-        "normesRespecter": "150 ko",
-        "remarquesParticulires": "Pour toutes les bannières:\nLe logo de la marque doit être présent et facilement identifiable\nLe contenu de la bannière doit être en adéquation exacte avec le contenu de la landing page\nSi la campagne est geolocalisée, s'assurer que la page est accessible depuis n'importe quel pays/région\n\nPour les bannières animées:\nL'animation ne doit pas durer plus de 30 secondes (temps de l'animation + nombre de répétition)\nLes fonctionnalités techniques basiques suivantes doivent être désactivés: Auto-Video, auto-sound, extension...\n"
+        "formatName": "Formats IAB Standard",
+        "extensionsAutorises": ".JPG\n.JPEG\n.GIF\nCode HTML",
+        "taillesRecommandes": "728x90\n160x600\n300x250\n300x600\n970x90\n970x250",
+        "poidsMaximum": "150 ko",
+        "normesRespecter": "Pour toutes les bannières:\nLe logo de la marque doit être présent et facilement identifiable\nLe contenu de la bannière doit être en adéquation exacte avec le contenu de la landing page\nSi la campagne est geolocalisée, s'assurer que la page est accessible depuis n'importe quel pays/région\n\nPour les bannières animées:\nL'animation ne doit pas durer plus de 30 secondes (temps de l'animation + nombre de répétition)\nLes fonctionnalités techniques basiques suivantes doivent être désactivés: Auto-Video, auto-sound, extension...\n"
     },
     {
-        "extentionsAutorises": "Formats\nTABLET\n",
-        "taillesRecommandes": ".JPG\r\n.JPEG\r\n.GIF\r\nCode HTML",
-        "poidsMaximum": "728x90\n300x250\n1024x90\n768x1024 (Interstitial)\n1024x768 (Interstitial)",
-        "normesRespecter": "150 ko",
-        "remarquesParticulires": "Pour toutes les bannières:\nLe logo de la marque doit être présent et facilement identifiable\nLe contenu de la bannière doit être en adéquation exacte avec le contenu de la landing page\nSi la campagne est geolocalisée, s'assurer que la page est accessible depuis n'importe quel pays/région\n\nPour les bannières animées:\nL'animation ne doit pas durer plus de 30 secondes (temps de l'animation + nombre de répétition)\nLes fonctionnalités techniques basiques suivantes doivent être désactivés: Auto-Video, auto-sound, extension...\n"
+        "formatName": "Formats\nTABLET\n",
+        "extensionsAutorises": ".JPG\r\n.JPEG\r\n.GIF\r\nCode HTML",
+        "taillesRecommandes": "728x90\n300x250\n1024x90\n768x1024 (Interstitial)\n1024x768 (Interstitial)",
+        "poidsMaximum": "150 ko",
+        "normesRespecter": "Pour toutes les bannières:\nLe logo de la marque doit être présent et facilement identifiable\nLe contenu de la bannière doit être en adéquation exacte avec le contenu de la landing page\nSi la campagne est geolocalisée, s'assurer que la page est accessible depuis n'importe quel pays/région\n\nPour les bannières animées:\nL'animation ne doit pas durer plus de 30 secondes (temps de l'animation + nombre de répétition)\nLes fonctionnalités techniques basiques suivantes doivent être désactivés: Auto-Video, auto-sound, extension...\n"
     },
     {
-        "extentionsAutorises": "Format Habillage Desktop",
-        "taillesRecommandes": ".JPG\n.JPEG\n",
-        "poidsMaximum": "1800x1000",
-        "normesRespecter": "150ko",
-        "remarquesParticulires": "La bannière doit être réalisée sous la forme suivante :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+        "formatName": "Format Habillage Desktop",
+        "extensionsAutorises": ".JPG\n.JPEG\n",
+        "taillesRecommandes": "1800x1000",
+        "poidsMaximum": "150ko",
+        "normesRespecter": "La bannière doit être réalisée sous la forme suivante :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     },
     {
-        "extentionsAutorises": "Formats Mobile",
-        "taillesRecommandes": ".JPG\n.JPEG\n.GIF\nCode HTML",
-        "poidsMaximum": "320x50\n320x480\n300x600\n300x250\n300x50",
-        "normesRespecter": "150ko",
-        "remarquesParticulires": "Pour toutes les bannières:\nLe logo de la marque doit être présent et facilement identifiable\nLe contenu de la bannière doit être en adéquation exacte avec le contenu de la landing page\nSi la campagne est geolocalisée, s'assurer que la page est accessible depuis n'importe quel pays/région\n\nPour les bannières animées:\nL'animation ne doit pas durer plus de 30 secondes (temps de l'animation + nombre de loop)\nLes fonctionnalités techniques basiques suivantes doivent être désactivés: Auto-Video, auto-sound, extension...\n"
+        "formatName": "Formats Mobile",
+        "extensionsAutorises": ".JPG\n.JPEG\n.GIF\nCode HTML",
+        "taillesRecommandes": "320x50\n320x480\n300x600\n300x250\n300x50",
+        "poidsMaximum": "150ko",
+        "normesRespecter": "Pour toutes les bannières:\nLe logo de la marque doit être présent et facilement identifiable\nLe contenu de la bannière doit être en adéquation exacte avec le contenu de la landing page\nSi la campagne est geolocalisée, s'assurer que la page est accessible depuis n'importe quel pays/région\n\nPour les bannières animées:\nL'animation ne doit pas durer plus de 30 secondes (temps de l'animation + nombre de loop)\nLes fonctionnalités techniques basiques suivantes doivent être désactivés: Auto-Video, auto-sound, extension...\n"
     },
     {
-        "extentionsAutorises": "Format Interstitiel",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "320x480\n480x320",
-        "normesRespecter": "150ko"
+        "formatName": "Format Interstitiel",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "320x480\n480x320",
+        "poidsMaximum": "150ko"
     },
     {
-        "extentionsAutorises": "Format Interstitiel Tablet",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "768x1024\n1024x768",
-        "normesRespecter": "150ko"
+        "formatName": "Format Interstitiel Tablet",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "768x1024\n1024x768",
+        "poidsMaximum": "150ko"
     },
     {
-        "extentionsAutorises": "Formats Natifs"
+        "formatName": "Formats Natifs"
     },
     {
-        "extentionsAutorises": "Native Traffic Ad\nStandard",
-        "taillesRecommandes": ".JPG\n",
-        "poidsMaximum": "1200x1200",
-        "normesRespecter": "Pas de poids maximal",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 à 50 caractères maximum espaces inclus)\n• Description (100 à 120 caractères maximum espaces inclus)"
+        "formatName": "Native Traffic Ad\nStandard",
+        "extensionsAutorises": ".JPG\n",
+        "taillesRecommandes": "1200x1200",
+        "poidsMaximum": "Pas de poids maximal",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 à 50 caractères maximum espaces inclus)\n• Description (100 à 120 caractères maximum espaces inclus)"
     },
     {
-        "extentionsAutorises": "Native Traffic Ad\nStandard 2",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "1200x627",
-        "normesRespecter": "Pas de poids maximal",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 à 50 caractères maximum espaces inclus)\n• Description (100 à 120 caractères maximum espaces inclus)"
+        "formatName": "Native Traffic Ad\nStandard 2",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "1200x627",
+        "poidsMaximum": "Pas de poids maximal",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 à 50 caractères maximum espaces inclus)\n• Description (100 à 120 caractères maximum espaces inclus)"
     },
     {
-        "extentionsAutorises": "AdYouLike",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "1200x627",
-        "normesRespecter": "Pas de poids maximal",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères maximum espaces inclus)\n• Description (90 caractères maximum, espaces inclus)"
+        "formatName": "AdYouLike",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "1200x627",
+        "poidsMaximum": "Pas de poids maximal",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères maximum espaces inclus)\n• Description (90 caractères maximum, espaces inclus)"
     },
     {
-        "extentionsAutorises": "Mediasmart",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "LOGO 300x300 obligatoire\n\n1200x627",
-        "normesRespecter": "Pas de poids maximal",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (10 à 50 caractères maximum espaces inclus)\n• Description (50 à 200 caractères maximum espaces inclus)\n• Call To Action (10 caractères maximum espaces inclus)"
+        "formatName": "Mediasmart",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "LOGO 300x300 obligatoire\n\n1200x627",
+        "poidsMaximum": "Pas de poids maximal",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (10 à 50 caractères maximum espaces inclus)\n• Description (50 à 200 caractères maximum espaces inclus)\n• Call To Action (10 caractères maximum espaces inclus)"
     },
     {
-        "extentionsAutorises": "Deezer",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "1200x627",
-        "normesRespecter": "<150ko",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (40 caractères max espaces inclus)\n• Description (150 caractères max espaces inclus)"
+        "formatName": "Deezer",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "1200x627",
+        "poidsMaximum": "<150ko",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (40 caractères max espaces inclus)\n• Description (150 caractères max espaces inclus)"
     },
     {
-        "extentionsAutorises": "Webmail Orange",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "1200x1200\nMais rien d'affiché",
-        "normesRespecter": "150ko max",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (90caractères max espaces inclus)\n• Description (90 caractères max espaces inclus)"
+        "formatName": "Webmail Orange",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "1200x1200\nMais rien d'affiché",
+        "poidsMaximum": "150ko max",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (90caractères max espaces inclus)\n• Description (90 caractères max espaces inclus)"
     },
     {
-        "extentionsAutorises": "L'Equipe",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "208x140",
-        "normesRespecter": "40ko max",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (60 caractères max espaces inclus)",
+        "formatName": "L'Equipe",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "208x140",
+        "poidsMaximum": "40ko max",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (60 caractères max espaces inclus)",
         "undefined": "Format disponible sur le site mobile L'Equipe sur la \"Home\" et \"Homepages de rubriques\" dans le flux des articles"
     },
     {
-        "extentionsAutorises": "Taboola",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "1200x1200",
-        "normesRespecter": "Pas de poids maximal"
+        "formatName": "Taboola",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "1200x1200",
+        "poidsMaximum": "Pas de poids maximal"
     },
     {
-        "extentionsAutorises": "Quantum",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "1200x627",
-        "normesRespecter": "Pas de poids maximal",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 à 50 caractères maximum espaces inclus)\n• Description (100 à 120 caractères maximum espaces inclus)"
+        "formatName": "Quantum",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "1200x627",
+        "poidsMaximum": "Pas de poids maximal",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 à 50 caractères maximum espaces inclus)\n• Description (100 à 120 caractères maximum espaces inclus)"
     },
     {
-        "extentionsAutorises": "FigaroMedia",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "600x315",
-        "normesRespecter": "100 ko max",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (90 caractères max espaces inclus) • Call To Action (15 caractères max) • Sponsorisé (100 caractères max)"
+        "formatName": "FigaroMedia",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "600x315",
+        "poidsMaximum": "100 ko max",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (90 caractères max espaces inclus) • Call To Action (15 caractères max) • Sponsorisé (100 caractères max)"
     },
     {
-        "extentionsAutorises": "Ligatus",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "712x400\n350x350",
-        "normesRespecter": "100 ko max",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (entre 60 et 90 caractères espaces inclus)"
+        "formatName": "Ligatus",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "712x400\n350x350",
+        "poidsMaximum": "100 ko max",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (entre 60 et 90 caractères espaces inclus)"
     },
     {
-        "extentionsAutorises": "Outbrain",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "1200x800\n400x260 (min)",
-        "normesRespecter": "1 mo",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus) \n• Description (60 caractères max espaces inclus / 40 caractères max idéalement)"
+        "formatName": "Outbrain",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "1200x800\n400x260 (min)",
+        "poidsMaximum": "1 mo",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus) \n• Description (60 caractères max espaces inclus / 40 caractères max idéalement)"
     },
     {
-        "extentionsAutorises": "TripleLift",
-        "taillesRecommandes": ".JPG",
-        "poidsMaximum": "1200x1200",
-        "normesRespecter": "2 mo",
-        "remarquesParticulires": "Le visuel ne doit contenir aucun texte\r\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (90 caractères max espaces inclus)"
+        "formatName": "TripleLift",
+        "extensionsAutorises": ".JPG",
+        "taillesRecommandes": "1200x1200",
+        "poidsMaximum": "2 mo",
+        "normesRespecter": "Le visuel ne doit contenir aucun texte\r\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (90 caractères max espaces inclus)"
     }
 ]

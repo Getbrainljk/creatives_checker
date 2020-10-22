@@ -1,119 +1,119 @@
 [
     {
-        "extensionsAutorises": "Formats vidéo\nin-stream & out-stream",
-        "taillesRecommandes": ".mp4\n.webm\n.ogg\n.mpeg",
-        "poidsMaximum": "720p minimum",
-        "normesRespecter": "100 MB",
-        "remarquesParticulires": "\nBit Rate maximal: 2500kbps\nRésolution minimale: 1280x720px (ratio 16:9)\nIPS: 30 images par seconde maximum\nPour Spotify, la vidéo WEBM doit avoir une durée de 15 secondes ou 30 secondes"
+        "formatName": "Formats vidéo\nin-stream & out-stream",
+        "extensionsAutorises": ".mp4\n.webm\n.ogg\n.mpeg",
+        "taillesRecommandes": "720p minimum",
+        "poidsMaximum": "100 MB",
+        "normesRespecter": "\nBit Rate maximal: 2500kbps\nRésolution minimale: 1280x720px (ratio 16:9)\nIPS: 30 images par seconde maximum\nPour Spotify, la vidéo WEBM doit avoir une durée de 15 secondes ou 30 secondes"
     },
     {
-        "extensionsAutorises": "Formats vidéo\nin-banner",
-        "taillesRecommandes": ".mp4",
-        "poidsMaximum": "728x90\n120x600\n160x600\n300x250\n300x600\n970x90\n1000x90",
-        "normesRespecter": "100 MB",
-        "remarquesParticulires": "\nBit Rate maximal: 2500kbps\nIPS: 30 images par seconde maximum\nImage JPG a fournir: image de la même taille que la vidéo qui s'affiche en fin de vidéo"
+        "formatName": "Formats vidéo\nin-banner",
+        "extensionsAutorises": ".mp4",
+        "taillesRecommandes": "728x90\n120x600\n160x600\n300x250\n300x600\n970x90\n1000x90",
+        "poidsMaximum": "100 MB",
+        "normesRespecter": "\nBit Rate maximal: 2500kbps\nIPS: 30 images par seconde maximum\nImage JPG a fournir: image de la même taille que la vidéo qui s'affiche en fin de vidéo"
     },
     {
-        "extensionsAutorises": "Formats habillage vidéo",
-        "taillesRecommandes": ".JPG\n.JPEG\n\n+\n\n.mp4",
-        "poidsMaximum": "1800x1000\n\n+\n\nvidéo 720p",
-        "normesRespecter": "100 MB pour la vidéo",
-        "remarquesParticulires": "Il faut laisser un espace (en rouge) de 300x220 afin de pouvoir y intégrer la vidéo\nLa bannière doit donc être réalisée sous la forme suivante :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+        "formatName": "Formats habillage vidéo",
+        "extensionsAutorises": ".JPG\n.JPEG\n\n+\n\n.mp4",
+        "taillesRecommandes": "1800x1000\n\n+\n\nvidéo 720p",
+        "poidsMaximum": "100 MB pour la vidéo",
+        "normesRespecter": "Il faut laisser un espace (en rouge) de 300x220 afin de pouvoir y intégrer la vidéo\nLa bannière doit donc être réalisée sous la forme suivante :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     },
     {
-        "extensionsAutorises": "Format Interstitiel Vidéo",
-        "taillesRecommandes": ".MP4",
-        "poidsMaximum": "640x960\n960x640",
-        "normesRespecter": "2 MB recommandé",
-        "remarquesParticulires": "Vous devez fournir 640x360 & 360x640                                                                                                                                                                                                                                                                                                                                                                                                                                     Pas de minimum - 15 secondes recommandés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Codec : H.264                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Image par seconde : 12-15 images par seconde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Bitrate : 400 kbps                                                                                                                                                                                                                                                                                                                                                                                                                                                                Baseline : 3.0                                                             "
+        "formatName": "Format Interstitiel Vidéo",
+        "extensionsAutorises": ".MP4",
+        "taillesRecommandes": "640x960\n960x640",
+        "poidsMaximum": "2 MB recommandé",
+        "normesRespecter": "Vous devez fournir 640x360 & 360x640                                                                                                                                                                                                                                                                                                                                                                                                                                     Pas de minimum - 15 secondes recommandés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Codec : H.264                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Image par seconde : 12-15 images par seconde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Bitrate : 400 kbps                                                                                                                                                                                                                                                                                                                                                                                                                                                                Baseline : 3.0                                                             "
     },
     {
-        "extensionsAutorises": "Formats Natifs Vidéo"
+        "formatName": "Formats Natifs Vidéo"
     },
     {
-        "extensionsAutorises": "Format\nNatif Vidéo\nQuantum",
-        "taillesRecommandes": ".MP4\n.Webm",
-        "poidsMaximum": "1280x720px",
-        "normesRespecter": "100 MB\n(à adapter pour optimiser le temps de chargement)",
-        "remarquesParticulires": " Vidéo 15 secondes idéalement\nVous devez fournir un texte au format suivant:\n• Titre (entre 10 et 50 caractères max espaces inclus)\n• Description (entre 50 et 150 caractères max espaces inclus)\n• Fournir un logo"
+        "formatName": "Format\nNatif Vidéo\nQuantum",
+        "extensionsAutorises": ".MP4\n.Webm",
+        "taillesRecommandes": "1280x720px",
+        "poidsMaximum": "100 MB\n(à adapter pour optimiser le temps de chargement)",
+        "normesRespecter": " Vidéo 15 secondes idéalement\nVous devez fournir un texte au format suivant:\n• Titre (entre 10 et 50 caractères max espaces inclus)\n• Description (entre 50 et 150 caractères max espaces inclus)\n• Fournir un logo"
     },
     {
-        "extensionsAutorises": "Format\nNatif Vidéo\nTeads",
-        "taillesRecommandes": ".MP4",
-        "poidsMaximum": "1280x720px",
-        "normesRespecter": "100 MB",
-        "remarquesParticulires": " • Vidéo entre 15 et 30 secondes\n• FPS (Image par secondes) : 241"
+        "formatName": "Format\nNatif Vidéo\nTeads",
+        "extensionsAutorises": ".MP4",
+        "taillesRecommandes": "1280x720px",
+        "poidsMaximum": "100 MB",
+        "normesRespecter": " • Vidéo entre 15 et 30 secondes\n• FPS (Image par secondes) : 241"
     },
     {
-        "extensionsAutorises": "Formats IPTV"
+        "formatName": "Formats IPTV"
     },
     {
-        "extensionsAutorises": "Format\n",
-        "taillesRecommandes": ".MP4\n.mpg",
-        "poidsMaximum": "1920x1080",
-        "normesRespecter": "50 MB",
-        "remarquesParticulires": "Bit Rate maximal: 2500kbps (entre 1000 et 3500)\nRésolution minimale: 1920x1080px (ratio 16:9)\nIPS: 30 images par seconde maximum"
+        "formatName": "Format\n",
+        "extensionsAutorises": ".MP4\n.mpg",
+        "taillesRecommandes": "1920x1080",
+        "poidsMaximum": "50 MB",
+        "normesRespecter": "Bit Rate maximal: 2500kbps (entre 1000 et 3500)\nRésolution minimale: 1920x1080px (ratio 16:9)\nIPS: 30 images par seconde maximum"
     },
     {
-        "taillesRecommandes": "Extensions autorisées",
-        "poidsMaximum": "Tailles recommandées",
-        "normesRespecter": "Poids Maximum",
-        "remarquesParticulires": "Normes à respecter"
+        "formatName": "Extensions autorisées",
+        "taillesRecommandes": "Tailles recommandées",
+        "poidsMaximum": "Poids Maximum",
+        "normesRespecter": "Normes à respecter"
     },
     {
-        "extensionsAutorises": "Formats vidéo\nin-stream & out-stream",
-        "taillesRecommandes": ".mp4\n.webm\n.ogg\n.mpeg",
-        "poidsMaximum": "720p minimum",
-        "normesRespecter": "100 MB",
-        "remarquesParticulires": "\nBit Rate maximal: 2500kbps\nRésolution minimale: 1280x720px (ratio 16:9)\nIPS: 30 images par seconde maximum\nPour Spotify, la vidéo WEBM doit avoir une durée de 15 secondes ou 30 secondes"
+        "formatName": "Formats vidéo\nin-stream & out-stream",
+        "extensionsAutorises": ".mp4\n.webm\n.ogg\n.mpeg",
+        "taillesRecommandes": "720p minimum",
+        "poidsMaximum": "100 MB",
+        "normesRespecter": "\nBit Rate maximal: 2500kbps\nRésolution minimale: 1280x720px (ratio 16:9)\nIPS: 30 images par seconde maximum\nPour Spotify, la vidéo WEBM doit avoir une durée de 15 secondes ou 30 secondes"
     },
     {
-        "extensionsAutorises": "Formats vidéo\nin-banner",
-        "taillesRecommandes": ".mp4",
-        "poidsMaximum": "728x90\n120x600\n160x600\n300x250\n300x600\n970x90\n1000x90",
-        "normesRespecter": "100 MB",
-        "remarquesParticulires": "\nBit Rate maximal: 2500kbps\nIPS: 30 images par seconde maximum\nImage JPG a fournir: image de la même taille que la vidéo qui s'affiche en fin de vidéo"
+        "formatName": "Formats vidéo\nin-banner",
+        "extensionsAutorises": ".mp4",
+        "taillesRecommandes": "728x90\n120x600\n160x600\n300x250\n300x600\n970x90\n1000x90",
+        "poidsMaximum": "100 MB",
+        "normesRespecter": "\nBit Rate maximal: 2500kbps\nIPS: 30 images par seconde maximum\nImage JPG a fournir: image de la même taille que la vidéo qui s'affiche en fin de vidéo"
     },
     {
-        "extensionsAutorises": "Formats habillage vidéo",
-        "taillesRecommandes": ".JPG\n.JPEG\n\n+\n\n.mp4",
-        "poidsMaximum": "1800x1000\n\n+\n\nvidéo 720p",
-        "normesRespecter": "100 MB pour la vidéo",
-        "remarquesParticulires": "Il faut laisser un espace (en rouge) de 300x220 afin de pouvoir y intégrer la vidéo\nLa bannière doit donc être réalisée sous la forme suivante :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+        "formatName": "Formats habillage vidéo",
+        "extensionsAutorises": ".JPG\n.JPEG\n\n+\n\n.mp4",
+        "taillesRecommandes": "1800x1000\n\n+\n\nvidéo 720p",
+        "poidsMaximum": "100 MB pour la vidéo",
+        "normesRespecter": "Il faut laisser un espace (en rouge) de 300x220 afin de pouvoir y intégrer la vidéo\nLa bannière doit donc être réalisée sous la forme suivante :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     },
     {
-        "extensionsAutorises": "Format Interstitiel Vidéo",
-        "taillesRecommandes": ".MP4",
-        "poidsMaximum": "640x960\n960x640",
-        "normesRespecter": "2 MB recommandé",
-        "remarquesParticulires": "Vous devez fournir 640x360 & 360x640                                                                                                                                                                                                                                                                                                                                                                                                                                     Pas de minimum - 15 secondes recommandés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Codec : H.264                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Image par seconde : 12-15 images par seconde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Bitrate : 400 kbps                                                                                                                                                                                                                                                                                                                                                                                                                                                                Baseline : 3.0                                                             "
+        "formatName": "Format Interstitiel Vidéo",
+        "extensionsAutorises": ".MP4",
+        "taillesRecommandes": "640x960\n960x640",
+        "poidsMaximum": "2 MB recommandé",
+        "normesRespecter": "Vous devez fournir 640x360 & 360x640                                                                                                                                                                                                                                                                                                                                                                                                                                     Pas de minimum - 15 secondes recommandés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Codec : H.264                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Image par seconde : 12-15 images par seconde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Bitrate : 400 kbps                                                                                                                                                                                                                                                                                                                                                                                                                                                                Baseline : 3.0                                                             "
     },
     {
-        "extensionsAutorises": "Formats Natifs Vidéo",
+        "formatName": "Formats Natifs Vidéo",
         "undefined": "Format disponible sur le site mobile L'Equipe sur la \"Home\" et \"Homepages de rubriques\" dans le flux des articles"
     },
     {
-        "extensionsAutorises": "Format\nNatif Vidéo\nQuantum",
-        "taillesRecommandes": ".MP4\n.Webm",
-        "poidsMaximum": "1280x720px",
-        "normesRespecter": "100 MB\n(à adapter pour optimiser le temps de chargement)",
-        "remarquesParticulires": " Vidéo 15 secondes idéalement\nVous devez fournir un texte au format suivant:\n• Titre (entre 10 et 50 caractères max espaces inclus)\n• Description (entre 50 et 150 caractères max espaces inclus)\n• Fournir un logo"
+        "formatName": "Format\nNatif Vidéo\nQuantum",
+        "extensionsAutorises": ".MP4\n.Webm",
+        "taillesRecommandes": "1280x720px",
+        "poidsMaximum": "100 MB\n(à adapter pour optimiser le temps de chargement)",
+        "normesRespecter": " Vidéo 15 secondes idéalement\nVous devez fournir un texte au format suivant:\n• Titre (entre 10 et 50 caractères max espaces inclus)\n• Description (entre 50 et 150 caractères max espaces inclus)\n• Fournir un logo"
     },
     {
-        "extensionsAutorises": "Format\nNatif Vidéo\nTeads",
-        "taillesRecommandes": ".MP4",
-        "poidsMaximum": "1280x720px",
-        "normesRespecter": "100 MB",
-        "remarquesParticulires": " Vidéo entre 15 et 30 secondes\n• FPS (Image par secondes) : 241"
+        "formatName": "Format\nNatif Vidéo\nTeads",
+        "extensionsAutorises": ".MP4",
+        "taillesRecommandes": "1280x720px",
+        "poidsMaximum": "100 MB",
+        "normesRespecter": " Vidéo entre 15 et 30 secondes\n• FPS (Image par secondes) : 241"
     },
     {
-        "extensionsAutorises": "Formats IPTV"
+        "formatName": "Formats IPTV"
     },
     {
-        "extensionsAutorises": "Format\n",
-        "taillesRecommandes": ".MP4\n.mpg",
-        "poidsMaximum": "1920x1080",
-        "normesRespecter": "50 MB",
-        "remarquesParticulires": "Bit Rate maximal: 2500kbps (entre 1000 et 3500)\nRésolution minimale: 1920x1080px (ratio 16:9)\nIPS: 30 images par seconde maximum"
+        "formatName": "Format\n",
+        "extensionsAutorises": ".MP4\n.mpg",
+        "taillesRecommandes": "1920x1080",
+        "poidsMaximum": "50 MB",
+        "normesRespecter": "Bit Rate maximal: 2500kbps (entre 1000 et 3500)\nRésolution minimale: 1920x1080px (ratio 16:9)\nIPS: 30 images par seconde maximum"
     }
 ]
