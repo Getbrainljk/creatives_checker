@@ -21,27 +21,27 @@
         "formatName": "Format Habillage Desktop",
         "extensionsAutorises": ".JPG\n.JPEG\n",
         "taillesRecommandes": "1800x1000",
-        "poidsMaximum": "150ko",
+        "poidsMaximum": "150 ko",
         "normesRespecter": "La bannière doit être réalisée sous la forme suivante :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     },
     {
         "formatName": "Formats Mobile",
         "extensionsAutorises": ".JPG\n.JPEG\n.GIF\nCode HTML",
         "taillesRecommandes": "320x50\n320x480\n300x600\n300x250\n300x50",
-        "poidsMaximum": "150ko",
+        "poidsMaximum": "150 ko",
         "normesRespecter": "Pour toutes les bannières:\nLe logo de la marque doit être présent et facilement identifiable\nLe contenu de la bannière doit être en adéquation exacte avec le contenu de la landing page\nSi la campagne est geolocalisée, s'assurer que la page est accessible depuis n'importe quel pays/région\n\nPour les bannières animées:\nL'animation ne doit pas durer plus de 30 secondes (temps de l'animation + nombre de loop)\nLes fonctionnalités techniques basiques suivantes doivent être désactivés: Auto-Video, auto-sound, extension...\n"
     },
     {
         "formatName": "Format Interstitiel",
         "extensionsAutorises": ".JPG",
         "taillesRecommandes": "320x480\n480x320",
-        "poidsMaximum": "150ko"
+        "poidsMaximum": "150 ko"
     },
     {
         "formatName": "Format Interstitiel Tablet",
         "extensionsAutorises": ".JPG",
         "taillesRecommandes": "768x1024\n1024x768",
-        "poidsMaximum": "150ko"
+        "poidsMaximum": "150 ko"
     },
     {
         "formatName": "Formats Natifs"
@@ -78,21 +78,21 @@
         "formatName": "Deezer",
         "extensionsAutorises": ".JPG",
         "taillesRecommandes": "1200x627",
-        "poidsMaximum": "<150ko",
+        "poidsMaximum": "149 ko",
         "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (40 caractères max espaces inclus)\n• Description (150 caractères max espaces inclus)"
     },
     {
         "formatName": "Webmail Orange",
         "extensionsAutorises": ".JPG",
         "taillesRecommandes": "1200x1200\nMais rien d'affiché",
-        "poidsMaximum": "150ko max",
+        "poidsMaximum": "150 ko",
         "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (90caractères max espaces inclus)\n• Description (90 caractères max espaces inclus)"
     },
     {
         "formatName": "L'Equipe",
         "extensionsAutorises": ".JPG",
         "taillesRecommandes": "208x140",
-        "poidsMaximum": "40ko max",
+        "poidsMaximum": "40 ko",
         "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (60 caractères max espaces inclus)",
         "undefined": "Format disponible sur le site mobile L'Equipe sur la \"Home\" et \"Homepages de rubriques\" dans le flux des articles"
     },
@@ -113,14 +113,14 @@
         "formatName": "FigaroMedia",
         "extensionsAutorises": ".JPG",
         "taillesRecommandes": "600x315",
-        "poidsMaximum": "100 ko max",
+        "poidsMaximum": "100 ko",
         "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (90 caractères max espaces inclus) • Call To Action (15 caractères max) • Sponsorisé (100 caractères max)"
     },
     {
         "formatName": "Ligatus",
         "extensionsAutorises": ".JPG",
         "taillesRecommandes": "712x400\n350x350",
-        "poidsMaximum": "100 ko max",
+        "poidsMaximum": "100 ko",
         "normesRespecter": "Le visuel ne doit contenir aucun texte\nTextes\n• Titre (25 caractères max espaces inclus)\n• Description (entre 60 et 90 caractères espaces inclus)"
     },
     {
